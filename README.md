@@ -1,3 +1,3 @@
-Deploy on Heroku
+Deployed on Heroku
 
-https://jay-narayan-portfoli.herokuapp.com/
+https://jay-narayan-portfoli.herokuapp.com
